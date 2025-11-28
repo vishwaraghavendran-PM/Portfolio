@@ -1,6 +1,6 @@
 # Banking AI Product Portfolio – Lending Risk Scoring
 
-This repository presents an end-to-end AI product case study demonstrating how a lending risk scoring system is designed, validated, and deployed in a financial organization. The materials highlight real-world product thinking and applied ML decisioning.
+End-to-end risk scoring lifecycle for lending decisions. This portfolio demonstrates product strategy, compliant ML design, model evaluation, and UI workflows for credit risk. It simulates feature engineering, model trade-offs, and stakeholder-facing artifacts across PRDs, case studies, and demos.
 
 ## Artifacts
 
