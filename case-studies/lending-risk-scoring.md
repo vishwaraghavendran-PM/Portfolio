@@ -72,10 +72,3 @@ Shadow mode → Limited segment rollout → Cross-product expansion → Full ado
 ## Outcome
 
 Credit losses decreased 15%, approvals increased 8%, and manual reviews fell 22%. The model remained stable under varied market conditions and passed fairness evaluations.
-
-## How to Evaluate This Portfolio
-
-- **Start here:** README and architecture diagram  
-- **See product thinking:** prds/ and case-studies/  
-- **See model rigor:** model-evaluations/ (AUC, PR/ROC, calibration)  
-- **See user experience:** ui/mockups and demos/  
